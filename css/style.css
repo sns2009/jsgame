@@ -5,6 +5,7 @@
     margin: auto 0;
     background-color: beige;
     position: relative;
+    border: 1px solid black
 }
 #cards select{
     position: absolute;
