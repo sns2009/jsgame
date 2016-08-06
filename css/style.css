@@ -1,0 +1,13 @@
+
+#cards {
+    width: 600px;
+    height: 600px;
+    margin: auto 0;
+    background-color: beige;
+    position: relative;
+}
+#cards select{
+    position: absolute;
+    left: 260px;
+    top: -20px;
+}
