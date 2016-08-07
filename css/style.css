@@ -12,3 +12,9 @@
     left: 260px;
     top: -20px;
 }
+.box{
+    display: block;
+    border: 1px solid black;
+    float: left;
+    box-sizing: border-box;
+}
