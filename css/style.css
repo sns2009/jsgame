@@ -17,4 +17,6 @@
     border: 1px solid black;
     float: left;
     box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
